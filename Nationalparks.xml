@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding "utf-8"?>
+<!--Grand Canyon ex-->
+<NationalPark Rating="4.9">
+  <Name>Grand Canyone</Name>
+  <Phone>928-638-7496</Phone>
+  <Phone>888-297-2757</Phone>
+  <Phone>866-499-2574</Phone>
+  <Address NearestAirport="Flagstaff">
+    <Number>8</Number>
+    <Street>S Entrance Road</Street>
+    <City>Grand Canyon</City>
+    <State>AZ</State>
+    <Zip>86023</Zip>
+  </Address>
+</NationalPark>
+
+<!--YellowStone-->
+<NationalPark Rating="4.8">
+  <Name>Yellowstone</Name>
+  <Phone>307-344-7381</Phone>
+  <Phone>307-344-2107</Phone>
+  <Address NearestAirport="Jackson Hole Airport">
+    <Number>2</Number>
+    <Street>Old Faithful Inn Road</Street>
+    <City>Yellowstone National Park</City>
+    <State>WY</State>
+    <Zip>82190</Zip>
+  </Address>
+</NationalParks>
+
+  <!--Yosemeite-->
+  <NationalPark Rating="4.9">
+    <Name>Yosemite</Name>
+    <Phone>209-372-0200</Phone>
+    <Address NearestAirport="Fresno Yosemite International>
+      
