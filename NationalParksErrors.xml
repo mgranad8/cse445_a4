@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding "utf-8"?>
-<NationalParks>
+<NationalPark>
   <!--Grand Canyon ex-->
   <NationalPark Rating="4.9">
     <Name>Grand Canyone</Name>
@@ -20,7 +20,7 @@
     <Name>Yellowstone</Name>
     <Phone>307-344-7381</Phone>
     <Phone>307-344-2107</Phone>
-    <Address NearestAirport="Jackson Hole Airport">
+    <Address>
       <Number>2</Number>
       <Street>Old Faithful Inn Road</Street>
       <City>Yellowstone National Park</City>
@@ -32,7 +32,6 @@
     <!--Yosemeite-->
     <NationalPark Rating="4.9">
       <Name>Yosemite</Name>
-      <Phone>209-372-0200</Phone>
       <Address NearestAirport="Fresno Yosemite International">
         <Number>9035</Number>
         <Street>Village Drive</Street>
@@ -53,12 +52,12 @@
         <City>Springdale</City>
         <State>UT</State>
         <Zip>84767</Zip>
-      </Address>
     </NationalPark>
   
     <!--Rocky Mountain-->
     <NationalPark>
       <Name>Rocky Mountain</Name>
+      <Name>Rocky Mountain National Park</Name>
       <Phone>970-586-1206</Phone>
       <Address NearestAirport="Denver International Airport">
         <Number>1000</Number>
@@ -149,4 +148,4 @@
         <Zip>22835</Zip>
       </Address>
     </NationalPark>
-</NationalParks>
+</NationalPark>
